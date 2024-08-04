@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_theme import st_theme
+#from streamlit_theme import st_theme
 
 st.image(r"imeg\baraban\1.jpg", caption="Барабаны", width=320)
 st.video(r".\video\baraban\1.mp4")
